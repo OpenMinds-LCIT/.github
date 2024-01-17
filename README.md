@@ -1,0 +1,2 @@
+# .github
+OpenMinds Org
